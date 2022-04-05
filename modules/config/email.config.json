@@ -1,0 +1,10 @@
+{
+  "HOST": "smtp.gmail.com",
+  "PORT": "587",
+  "RECIPIENT_EMAIL_ADDRESS": "",
+  "SENDER_EMAIL_ADDRESS": "",
+  "PASSWORD": "",
+  "SUBJECT": "CRYPTO TRADING BOT",
+  "MESSAGE": "Crypto trading bot"
+}
+
